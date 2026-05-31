@@ -119,5 +119,5 @@ curl -X POST http://localhost:5000/api/v1/reservas \
 ├── schema.sql           # DDL de la base de datos
 ├── requirements.txt
 ├── .env                 # Variables de entorno (no incluido en git)
-└── .env.example         # Plantilla de variables de entorno
+└── .env.example         # Plantilla de variables de entorno.
 ```
